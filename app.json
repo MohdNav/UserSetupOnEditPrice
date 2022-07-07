@@ -1,0 +1,29 @@
+{
+  "id": "ff27587e-7a38-41f4-94e4-cfa6e6cdd88a",
+  "name": "DisableEditPrice",
+  "publisher": "Microchannel",
+  "version": "20.1.0.0",
+  "brief": "",
+  "description": "Disable Edit Price",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
